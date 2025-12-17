@@ -34,13 +34,14 @@
 | 2.21 | 🟢 / 🟢 | [main.cpp](Sem_1/2_21/main.cpp) | [схема](Sem_1/2_21/2_21.png) |
 | 2.22 | 🟢 / 🟢 | [main.cpp](Sem_1/2_22/main.cpp) | [схема](Sem_1/2_22/2_22.png) |
 | 2.23 | 🟢 / 🟢 | [main.cpp](Sem_1/2_23/main.cpp) | [схема](Sem_1/2_23/2_23.png) |
-| ptr1 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr1/main.cpp) | [схема](Sem_1/ptr1/diag.png) |
-| ptr2 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr2/main.cpp) | [схема](Sem_1/ptr2/diag.png) |
-| ptr3 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr3/main.cpp) | [схема](Sem_1/ptr3/diag.png) |
-| ptr4 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr4/main.cpp) | [схема](Sem_1/ptr4/diag.png) |
-| ptr5 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr5/main.cpp) | [схема](Sem_1/ptr5/diag.png) |
+| ptr1 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr1/main.cpp) | [схема](Sem_1/ptr1/ptr1.png) |
+| ptr2 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr2/main.cpp) | [схема](Sem_1/ptr2/ptr2.png) |
+| ptr3 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr3/main.cpp) | [схема](Sem_1/ptr3/ptr3.png) |
+| ptr4 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr4/main.cpp) | [схема](Sem_1/ptr4/ptr4.png) |
+| ptr5 | 🟢 / 🟢 | [main.cpp](Sem_1/ptr5/main.cpp) | [схема](Sem_1/ptr5/ptr5.png) |
 
 ---
+
 
 
 
