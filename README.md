@@ -50,7 +50,7 @@
 | вставками | 🟢 / 🔴 | [main.cpp](sem_2/vstavki/main.cpp) | [схема](sem_2/vstavki/diag.png) |
 | 3.1 | 🔴 / 🔴 | [main.cpp](sem_2/3_1/main.cpp) | [схема](sem_2/3_1/diag.png) |
 | 3.2 | 🔴 / 🔴 | [main.cpp](sem_2/3_2/main.cpp) | [схема](sem_2/3_2/diag.png) |
-| 3.3 | 🔴 / 🔴 | [main.cpp](sem_2/3_3/main.cpp) | [схема](sem_2/3_3/diag.png) |
+| 3.3 | 🟢 / 🔴 | [main.cpp](sem_2/3_3/main.cpp) | [схема](sem_2/3_3/diag.png) |
 | 3.4 | 🔴 / 🔴 | [main.cpp](sem_2/3_4/main.cpp) | [схема](sem_2/3_4/diag.png) |
 | 3.5 | 🔴 / 🔴 | [main.cpp](sem_2/3_5/main.cpp) | [схема](sem_2/3_5/diag.png) |
 | 3.6 | 🔴 / 🔴 | [main.cpp](sem_2/3_6/main.cpp) | [схема](sem_2/3_6/diag.png) |
