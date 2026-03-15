@@ -33,9 +33,10 @@
 | 4 |  6  | 🟢 / 🟢 | [main.cpp](sem_2/lab_6/main.cpp) | [схема](sem_2/lab_6/diag.png) |
 | 5 |  7_1  | :green_circle: / 🟢 | [main.cpp](sem_2/lab_7_1/main.cpp) | [схема](sem_2/lab_7_1/diag.png) |
 | 6 |  7_2  | 🟢 / 🟢 | [main.cpp](sem_2/lab_7_2/main.cpp) | [схема](sem_2/lab_7_2/diag.png) |
-| 6 |  8  | 🔴 / 🔴 | [main.cpp](sem_2/lab_8/main.cpp) | [схема](sem_2/lab_8/diag.png) |
+| 6 |  8  | 🟢 / 🔴 | [main.cpp](sem_2/lab_8/main.cpp) | [схема](sem_2/lab_8/diag.png) |
 | 7 |  9  | 🟢 / 🟢 | [main.cpp](sem_2/lab_9/main.cpp) | [схема](sem_2/lab_9/diag.png) |
-| 8 |  10  | 🔴 / 🔴 | [main.cpp](sem_2/lab_10/main.cpp) | [схема](sem_2/lab_10/diag.png) |
+| 8 |  10  | 🟢 / 🔴 | [main.cpp](sem_2/lab_10/main.cpp) | [схема](sem_2/lab_10/diag.png) |
+| 8 |  11  | 🟢 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
 ---
 
 
