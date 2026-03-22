@@ -27,7 +27,7 @@
 ## Лабы
 | Номер | Номер в методичке | Статус (код / схема) | Исходный код | Блок-схема |
 |--------|--------|----------------------|--------------|------------|
-| 1 |  3  | :yellow_circle: / 🔴 | [main.cpp](sem_2/lab_1/main.cpp) | [схема](sem_2/lab_1/diag.png) |
+| 1 |  3  | 🟢 / 🟢 | [main.cpp](sem_2/lab_1/main.cpp) | [схема](sem_2/lab_1/diag.png) |
 | 2 |  4  | :green_circle:  / 🔴 | [main.cpp](sem_2/lab_2/main.cpp) | [схема](sem_2/lab_2/diag.png) |
 | 3 |  5  | 🟢 / 🟢 | [main.cpp](sem_2/lab_5/main.cpp) | [схема](sem_2/lab_5/diag.png) |
 | 4 |  6  | 🟢 / 🟢 | [main.cpp](sem_2/lab_6/main.cpp) | [схема](sem_2/lab_6/diag.png) |
@@ -36,7 +36,10 @@
 | 6 |  8  | 🟢 / 🔴 | [main.cpp](sem_2/lab_8/main.cpp) | [схема](sem_2/lab_8/diag.png) |
 | 7 |  9  | 🟢 / 🟢 | [main.cpp](sem_2/lab_9/main.cpp) | [схема](sem_2/lab_9/diag.png) |
 | 8 |  10  | 🟢 / 🔴 | [main.cpp](sem_2/lab_10/main.cpp) | [схема](sem_2/lab_10/diag.png) |
-| 8 |  11  | 🟢 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
+| 8 |  11(onedirlist)  | :yellow_circle: / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
+| 9 |  11(twodirlits)  | 🔴 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
+| 10 |  11(queue)  | 🔴 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
+| 11 |  11(stack)  | 🔴 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
 ---
 
 

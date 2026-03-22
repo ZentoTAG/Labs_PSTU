@@ -12,11 +12,7 @@ int main() {
    	int key;
     int startPos, K;
     cout << "size, startpos, K, key" << endl;;
-    cin >> size;
-    cin >> startPos;
-    cin >> K;
-    cin >> key;
-
+	cin >> size >> startPos >> K >> key;
     int* arr = new int[size + 1];
     
     for (int i = 0; i < size; i++) {
