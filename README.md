@@ -19,7 +19,7 @@
 |--------|----------------------|--------------|------------|
 | пузырьком | 🟢 / 🟢 | [main.cpp](sem_2/bubble/main.cpp) | [схема](sem_2/bubble/diag.png) |
 | выбором | 🟢 / 🟢 | [main.cpp](sem_2/vibor/main.cpp) | [схема](sem_2/vibor/diag.png) |
-| вставками | 🟢 / 🔴 | [main.cpp](sem_2/vstavki/main.cpp) | [схема](sem_2/vstavki/diag.png) |
+| вставками | 🟢 / 🟢 | [main.cpp](sem_2/vstavki/main.cpp) | [схема](sem_2/vstavki/diag.png) |
 | 3.1-3.13 | 🟢 / 🔴 | [задачи](sem_2/задачи) | |
 | хонойская башня| 🟢 / 🟢 | [main.cpp](sem_2/honoy_tower/main.cpp) | [схема](sem_2/honoy_tower/diag.png) |
 | 8 ферзей| 🟢 / 🟢 | [main.cpp](sem_2/8_ferzei/main.cpp) | [схема](sem_2/8_ferzei/diag.png) |
