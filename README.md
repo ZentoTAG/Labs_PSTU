@@ -28,7 +28,7 @@
 | Номер | Номер в методичке | Статус (код / схема) | Исходный код | Блок-схема |
 |--------|--------|----------------------|--------------|------------|
 | 1 |  3  | 🟢 / 🟢 | [main.cpp](sem_2/lab_3/main.cpp) | [схема](sem_2/lab_3/diag.png) |
-| 2 |  4  | :green_circle:  / 🔴 | [main.cpp](sem_4/lab_4/main.cpp) | [схема](sem_4/lab_4/diag.png) |
+| 2 |  4  | :green_circle:  / :green_circle: | [main.cpp](sem_4/lab_4/main.cpp) | [схема](sem_4/lab_4/diag.png) |
 | 3 |  5  | 🟢 / 🟢 | [main.cpp](sem_2/lab_5/main.cpp) | [схема](sem_2/lab_5/diag.png) |
 | 4 |  6  | 🟢 / 🟢 | [main.cpp](sem_2/lab_6/main.cpp) | [схема](sem_2/lab_6/diag.png) |
 | 5 |  7_1  | :green_circle: / 🟢 | [main.cpp](sem_2/lab_7_1/main.cpp) | [схема](sem_2/lab_7_1/diag.png) |
