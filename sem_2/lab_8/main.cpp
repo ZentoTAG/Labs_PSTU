@@ -26,7 +26,7 @@ void insertAfter(State* states, int& n, int pos, State newState) {
         for(int i = n; i > pos; i--) {
             states[i] = states[i-1];
         }
-        states[pos+1] = newState;
+        d
         n++;
     }
 }
