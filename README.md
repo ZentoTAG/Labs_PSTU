@@ -42,6 +42,12 @@
 | 11 |  11(stack)  | 🔴 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
 ---
 
+| задача | выполнено | Исходный код | idef0 |
+|--------|----------------------|--------------|------------|
+| project | 🟢 / 🟢 | [main.cpp](sem_1/) | [IDEF0](project/project_idef0.png) |
+
+---
+
 
 
 
