@@ -42,9 +42,18 @@
 | 11 |  11(stack)  | 🔴 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
 ---
 
+## Классы
+| Номер | Номер в методичке | Статус (код / схема) | Исходный код | Блок-схема |
+|--------|--------|----------------------|--------------|------------|
+| 1 |  1  | 🟢 / 🟢 | [main.cpp](sem_2/classes/1/main.cpp) | [схема](sem_2/classes/1/diag.png) |
+| 2 |  2  | 🟢 / 🟢 | [main.cpp](sem_2/classes/2/main.cpp) | [схема](sem_2/classes/2/diag.png) |
+| 3 |  3  | 🟢 / 🟢 | [main.cpp](sem_2/classes/3/main.cpp) | [схема](sem_2/classes/3/diag.png) |
+| 4 |  4  | 🟢 / 🟢 | [main.cpp](sem_2/classes/4/main.cpp) | [схема](sem_2/classes/4/diag.png) |
+---
+
 | задача | выполнено | Исходный код | idef0 |
 |--------|----------------------|--------------|------------|
-| project | 🟢 / 🟢 | [main.cpp](sem_1/) | [IDEF0](project/project_idef0.png) |
+| project | 🔴 / 🔴 | [main.cpp](sem_1/) | [IDEF0](project/project_idef0.png) |
 
 ---
 
