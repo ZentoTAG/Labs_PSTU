@@ -48,7 +48,7 @@
 | 1 |  1  | 🟢 / 🟢 | [main.cpp](sem_2/classes/1/main.cpp) | [схема](sem_2/classes/1/diag.png) |
 | 2 |  2  | 🟢 / 🟢 | [main.cpp](sem_2/classes/2/main.cpp) | [схема](sem_2/classes/2/diag.png) |
 | 3 |  3  | 🟢 / 🟢 | [main.cpp](sem_2/classes/3/main.cpp) | [схема](sem_2/classes/3/diag.png) |
-| 4 |  4  | "red_circle" / 🟢 | [main.cpp](sem_2/classes/4/main.cpp) | [схема](sem_2/classes/4/diag.png) |
+| 4 |  4  | :red_circle: / 🟢 | [main.cpp](sem_2/classes/4/main.cpp) | [схема](sem_2/classes/4/diag.png) |
 ---
 
 | задача | выполнено | Исходный код | idef0 |
