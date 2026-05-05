@@ -47,19 +47,28 @@
 |--------|--------|----------------------|--------------|------------|
 | 1 |  1  | 🟢 / 🔴 | [main.cpp](sem_2/classes/1/main.cpp) | [схема](sem_2/classes/1/diag.png) |
 | 2 |  2  | 🟢 / 🔴 | [main.cpp](sem_2/classes/2/main.cpp) | [схема](sem_2/classes/2/diag.png) |
-| 3 |  3  | 🔴 / 🔴 | [main.cpp](sem_2/classes/3/main.cpp) | [схема](sem_2/classes/3/diag.png) |
-| 4 |  4  | :red_circle: / 🔴 | [main.cpp](sem_2/classes/4/main.cpp) | [схема](sem_2/classes/4/diag.png) |
+| 3 |  3  | 🟢 / 🔴 | [main.cpp](sem_2/classes/3/main.cpp) | [схема](sem_2/classes/3/diag.png) |
+| 4 |  4  | 🟢 / 🔴 | [main.cpp](sem_2/classes/4/main.cpp) | [схема](sem_2/classes/4/diag.png) |
+| 5 |  4  | 🔴 / 🔴 | [main.cpp](sem_2/classes/5/main.cpp) | [схема](sem_2/classes/5/diag.png) |
+| 6 |  6  | 🔴 / 🔴 | [main.cpp](sem_2/classes/6/main.cpp) | [схема](sem_2/classes/6/diag.png) |
+| 7 |  7  | 🔴 / 🔴 | [main.cpp](sem_2/classes/7/main.cpp) | [схема](sem_2/classes/7/diag.png) |
+| 8 |  8  | 🔴 / 🔴 | [main.cpp](sem_2/classes/8/main.cpp) | [схема](sem_2/classes/8/diag.png) |
+| 9 |  9  | 🔴 / 🔴 | [main.cpp](sem_2/classes/9/main.cpp) | [схема](sem_2/classes/9/diag.png) |
+| 10 |  10  | 🔴 / 🔴 | [main.cpp](sem_2/classes/10/main.cpp) | [схема](sem_2/classes/10/diag.png) |
+| 11 |  11  | 🔴 / 🔴 | [main.cpp](sem_2/classes/11/main.cpp) | [схема](sem_2/classes/11/diag.png) |
+| 12 |  12  | 🔴 / 🔴 | [main.cpp](sem_2/classes/12/main.cpp) | [схема](sem_2/classes/12/diag.png) |
+| 13 |  13  | 🔴 / 🔴 | [main.cpp](sem_2/classes/13/main.cpp) | [схема](sem_2/classes/13/diag.png) |
 ---
 
 | задача | выполнено | Исходный код | idef0 |
 |--------|----------------------|--------------|------------|
-| project | 🔴 / 🔴 | [main.cpp](sem_1/) | [IDEF0](project/project_idef0.png) |
+| project | :yellow_circle: / :green_circle: | [main.cpp](project) | [IDEF0](project/project_idef0.png) |
 
 ---
 
 
 
-
+🟢 
 
 
 
