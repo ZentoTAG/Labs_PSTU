@@ -36,10 +36,10 @@
 | 6 |  8  | 🟢 / 🟢 | [main.cpp](sem_2/lab_8/main.cpp) | [схема](sem_2/lab_8/diag.png) |
 | 7 |  9  | 🟢 / 🟢 | [main.cpp](sem_2/lab_9/main.cpp) | [схема](sem_2/lab_9/diag.png) |
 | 8 |  10  | 🟢 / 🟢 | [main.cpp](sem_2/lab_10/main.cpp) | [схема](sem_2/lab_10/diag.png) |
-| 8 |  11(onedirlist)  | :yellow_circle: / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
-| 9 |  11(twodirlits)  | 🔴 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
-| 10 |  11(queue)  | 🔴 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
-| 11 |  11(stack)  | 🔴 / 🔴 | [main.cpp](sem_2/lab_11/main.cpp) | [схема](sem_2/lab_11/diag.png) |
+| 8 |  11(onedirlist)  | 🟢 / 🟢 | [main.cpp](sem_2/11/1/main.cpp) | [схема](sem_2/11/1/diag.png) |
+| 9 |  11(twodirlits)  | 🟢 / 🟢 | [main.cpp](sem_2/11/2/main.cpp) | [схема](sem_2/11/2/diag.png) |
+| 10 |  11(queue)  | 🟢 / 🟢 | [main.cpp](sem_2/11/3/main.cpp) | [схема](sem_2/11/3/diag.png) |
+| 11 |  11(stack)  | 🟢 / 🟢 | [main.cpp](sem_2/11/4/main.cpp) | [схема](sem_2/11/4/diag.png) |
 ---
 
 ## Классы
